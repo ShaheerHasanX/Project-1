@@ -3,3 +3,5 @@
 ### HOW ARE YA
 **BOLD**
 NORMAL
+_ITALIC_
+**_BOLD ITALIC_**
