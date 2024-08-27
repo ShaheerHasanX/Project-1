@@ -19,3 +19,5 @@ Stud code quote
 Stud quote 2
 Stud quote 3
 ```
+# IMAGE
+![CAT]https://myoctocat.com/assets/images/base-octocat.svg
