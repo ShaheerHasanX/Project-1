@@ -1,3 +1,5 @@
 # Project-1
-## hEY
+## HEY
 ### HOW ARE YA
+**BOLD**
+NORMAL
