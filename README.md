@@ -13,8 +13,8 @@ _ITALIC_
 ~OOPS! Made an error~
 > This text is a quote
 This is not a quote\
-'''
+```
 Stud code quote
 Stud quote 2
 Stud quote 3
-'''
+```
