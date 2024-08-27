@@ -11,7 +11,7 @@ _ITALIC_
 *This text is Italic*\
 ***This text is bold and italic***\
 ~OOPS! Made an error~
-> This text is a quote?
+> This text is a quote\
 This is not a quote\
 ```
 Stud code quote
